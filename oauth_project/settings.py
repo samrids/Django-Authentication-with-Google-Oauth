@@ -38,10 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+    #Required
     'django.contrib.sites',
+    #app
     'oauth_app',
-    #third party
+    #Third party
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
