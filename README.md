@@ -6,7 +6,8 @@
    pip install -r requirements.txt
 5. Create and configure a new Google APIs project<br>
 Head over to Google Developer APIs Console and create a new project.<br>
-https://github.com/samrids/Django-Authentication-with-Google-Oauth/blob/main/screen/Step01.png<br>
+<img src="https://github.com/samrids/Django-Authentication-with-Google-Oauth/blob/main/screen/Step01.png"/> 
+<br>
 Link:https://console.cloud.google.com/apis/dashboard
 
 6. Create super user
